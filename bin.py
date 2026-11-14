@@ -54,7 +54,6 @@ while p<=998:
     p = p + 1
     v = str(p)
     b = (str(v).zfill(3))
-    #print(nirob)
     bb = list(b)
     x = bb[0]
     y = bb[1]
